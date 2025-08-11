@@ -18,4 +18,5 @@ jobs:
         uses: cloudbees-io/checkout@v1
 
       - name: Scan with Gosec
-        uses: cloudbees-io/gosec-plugin@v1
+        uses: cloudbees-io/gosec-plugin@v2
+        
