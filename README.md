@@ -11,4 +11,4 @@ This repository is designed for educational purposes to demonstrate common secur
 - ✅ Verbose Errors
 - ✅ No Input Validation
 
-> ⚠️ Do NOT deploy in production. Use only in isolated environments.
+> ⚠️ Do NOT deploy in production. Use only in isolated environments
