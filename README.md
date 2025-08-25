@@ -1,6 +1,6 @@
 # Vulnerable Golang App
 
-This repository is designed for educational purposes to demonstrate common security issues in Golang web applications.
+This repository is designed for educational purposes to demonstrate common security issues in Golang web applications..
 
 ## Included Vulnerabilities
 
